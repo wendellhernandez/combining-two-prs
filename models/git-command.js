@@ -30,6 +30,12 @@ class GitCommand {
         return "Successfully added as index file/s.";
     }
 
+    add_all(){
+        /*
+            code here
+        */
+    }
+
     add_asterisk(){
         /*
             code here
