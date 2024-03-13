@@ -30,6 +30,12 @@ class GitCommand {
         return "Successfully added as index file/s.";
     }
 
+    add_asterisk(){
+        /*
+            code here
+        */
+    }
+
     //Command: git commit -m "<message>"
     commit(message){
         if(this.staging.length > 0){
