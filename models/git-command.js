@@ -30,6 +30,10 @@ class GitCommand {
         return "Successfully added as index file/s.";
     }
 
+    add_all(){
+        
+    }
+
     //Command: git commit -m "<message>"
     commit(message){
         if(this.staging.length > 0){
