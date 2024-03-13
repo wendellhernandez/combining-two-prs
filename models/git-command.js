@@ -31,7 +31,9 @@ class GitCommand {
     }
 
     add_all(){
-        
+        /*
+            code here
+        */
     }
 
     //Command: git commit -m "<message>"
