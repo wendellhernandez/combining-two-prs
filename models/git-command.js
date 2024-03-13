@@ -36,6 +36,12 @@ class GitCommand {
         */
     }
 
+    add_asterisk(){
+        /*
+            code here
+        */
+    }
+
     //Command: git commit -m "<message>"
     commit(message){
         if(this.staging.length > 0){
